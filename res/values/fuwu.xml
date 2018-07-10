@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ddcx">订单查询</string>
+    <string name="dfkdd">待付款订单</string>
+    <string name="dshdd">待收获订单</string>
+    <string name="hfczd">话费充值单</string>
+    <string name="yhj">优惠卷</string>
+    <string name="gldz">管理地址</string>
+    <string name="xgdd">修改订单</string>
+    <string name="pjsp">评价商品</string>
+    <string name="wdsc">我的收藏</string>
+    <string name="cxxmzjhfwwd">查询小米之家或服务网点</string>
+    <string name="shfwd">售后服务单</string>
+    <string name="wxjdcx">维修进度查询</string>
+    <string name="sjxsjl">手机销售记录</string>
+    <string name="zxkf">在线客服</string> 
+</resources>

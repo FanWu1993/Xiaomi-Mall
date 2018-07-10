@@ -1,0 +1,16 @@
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/input_btn_disabled_bg"
+    android:orientation="vertical" >
+
+    <ListView
+        android:id="@+id/listView1"
+        android:layout_width="292dp"
+        android:layout_height="427dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true" >
+    </ListView>
+
+</RelativeLayout>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="erji">小米耳机</string>
+    <string name="dianyuan">小米电源</string>
+    <string name="xiaomi3">小米3</string>
+    <string name="hongmi">红米</string>
+    <string name="hezi">小米盒子</string>
+    <string name="pingban">小米平板</string>
+    
+</resources>
